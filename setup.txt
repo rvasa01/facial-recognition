@@ -1,0 +1,17 @@
+outside of venv, to get ref images:
+cd facial-recognition-dispenser && python3 test.py
+
+
+to activate venv:
+cd /usr/src/Python-3.9.16 && source DIY_eng_CoralUSB/bin/activate && cd ~/coral/pycoral
+
+
+All below in DIY_eng_CoralUSB venv:
+from utils: 
+python3 generate_db.py --images ~/facial-recognition-dispenser/detected_faces --db_dir ../pretrained_model
+
+from inference: 
+python3 inference_video.py --coral_tpu --input=output.h264
+
+for video (do in inference with ringlight):
+libcamera-vid -t 20000 -o output.h264 --shutter 10000 

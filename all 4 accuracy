@@ -1,0 +1,644 @@
+(DIY_eng_CoralUSB) ewood@raspberrypi:~/coral/pycoral/Mobilefacenet-TF2-coral_tpu/inference $ python3 inference_video.py --coral_tpu --input=output.h264
+works
+valid names:  ['Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil']
+(20, 1.0)
+qt.qpa.plugin: Could not find the Qt platform plugin "wayland" in "/usr/src/Python-3.9.16/DIY_eng_CoralUSB/lib/python3.9/site-packages/cv2/qt/plugins"
+percent frames identified:  100.0
+valid names:  ['Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil']
+(20, 1.0)
+percent frames identified:  100.0
+valid names:  ['Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil']
+(22, 1.0)
+percent frames identified:  100.0
+valid names:  ['Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil']
+(20, 1.0)
+percent frames identified:  100.0
+valid names:  ['Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil']
+(20, 1.0)
+percent frames identified:  100.0
+valid names:  ['Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil']
+(20, 1.0)
+percent frames identified:  100.0
+valid names:  ['Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil']
+(20, 1.0)
+percent frames identified:  100.0
+valid names:  ['Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil']
+(20, 1.0)
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+valid names:  ['Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth']
+(15, 1.0)
+percent frames identified:  100.0
+valid names:  ['Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth']
+(15, 1.0)
+percent frames identified:  100.0
+valid names:  ['Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth']
+(15, 1.0)
+percent frames identified:  100.0
+valid names:  ['Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth']
+(15, 1.0)
+percent frames identified:  100.0
+valid names:  ['Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth']
+(15, 1.0)
+percent frames identified:  100.0
+valid names:  ['Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth']
+(15, 1.0)
+percent frames identified:  100.0
+valid names:  ['Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth']
+(15, 1.0)
+percent frames identified:  100.0
+valid names:  ['Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth']
+(15, 1.0)
+percent frames identified:  100.0
+valid names:  ['Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth']
+(15, 1.0)
+percent frames identified:  100.0
+valid names:  ['Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth']
+(15, 1.0)
+percent frames identified:  100.0
+valid names:  ['Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth']
+(15, 1.0)
+percent frames identified:  100.0
+valid names:  ['Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth']
+(15, 1.0)
+percent frames identified:  100.0
+valid names:  ['Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth']
+(15, 1.0)
+percent frames identified:  100.0
+valid names:  ['Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth']
+(15, 1.0)
+percent frames identified:  100.0
+valid names:  ['Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth']
+(15, 1.0)
+percent frames identified:  100.0
+valid names:  ['Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth']
+(15, 1.0)
+percent frames identified:  100.0
+valid names:  ['Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Ben', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth']
+(17, 0.9)
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+percent frames identified:  100.0
+valid names:  ['Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil']
+(20, 1.0)
+percent frames identified:  100.0
+valid names:  ['Shlok', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil']
+(22, 0.9)
+percent frames identified:  100.0
+valid names:  ['Shlok', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil']
+(22, 0.9)
+percent frames identified:  100.0
+valid names:  ['Shlok', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil']
+(22, 0.9)
+percent frames identified:  100.0
+valid names:  ['Shlok', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil']
+(22, 0.9)
+percent frames identified:  100.0
+valid names:  ['Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil']
+(20, 1.0)
+percent frames identified:  100.0
+valid names:  ['Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil']
+(20, 1.0)
+percent frames identified:  100.0
+valid names:  ['Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil']
+(20, 1.0)
+percent frames identified:  100.0
+valid names:  ['Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil']
+(20, 1.0)
+percent frames identified:  100.0
+valid names:  ['Rahil', 'Rahil', 'Rahil', 'Rahil', 'Shlok', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Rahil']
+(25, 0.9)
+percent frames identified:  100.0
+valid names:  ['Rahil', 'Rahil', 'Shlok', 'Elizabeth', 'Rahil', 'Rahil', 'Elizabeth', 'Shlok', 'Shlok', 'Elizabeth']
+(26, 0.4)
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+percent frames identified:  97.22222222222221
+valid names:  ['Ben', 'Elizabeth', 'Elizabeth', 'Rahil', 'Elizabeth', 'Elizabeth', 'Shlok', 'Elizabeth', 'Elizabeth', 'Shlok']
+(16, 0.6)
+percent frames identified:  94.5945945945946
+valid names:  ['Elizabeth', 'Ben', 'Elizabeth', 'Ben', 'Ben', 'Ben', 'Ben', 'Elizabeth', 'Ben', 'Ben']
+(1, 0.7)
+percent frames identified:  92.10526315789474
+valid names:  ['Ben', 'Ben', 'Elizabeth', 'Ben', 'Elizabeth', 'Elizabeth', 'Ben', 'Ben', 'Ben', 'Ben']
+(1, 0.7)
+percent frames identified:  89.74358974358975
+valid names:  ['Shlok', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Shlok', 'Ben', 'Elizabeth']
+(13, 0.7)
+percent frames identified:  87.5
+valid names:  ['Elizabeth', 'Elizabeth', 'Elizabeth', 'Ben', 'Elizabeth', 'Ben', 'Ben', 'Elizabeth', 'Ben', 'Ben']
+(16, 0.5)
+percent frames identified:  85.36585365853658
+valid names:  ['Ben', 'Elizabeth', 'Ben', 'Elizabeth', 'Ben', 'Elizabeth', 'Ben', 'Ben', 'Ben', 'Ben']
+(1, 0.7)
+percent frames identified:  83.33333333333334
+valid names:  ['Elizabeth', 'Ben', 'Elizabeth', 'Ben', 'Ben', 'Elizabeth', 'Ben', 'Ben', 'Ben', 'Ben']
+(1, 0.7)
+percent frames identified:  81.3953488372093
+valid names:  ['Ben', 'Elizabeth', 'Ben', 'Elizabeth', 'Rahil', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(1, 0.7)
+percent frames identified:  79.54545454545455
+valid names:  ['Ben', 'Elizabeth', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(5, 0.9)
+percent frames identified:  80.0
+valid names:  ['Ben', 'Elizabeth', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(4, 0.9)
+percent frames identified:  80.43478260869566
+valid names:  ['Ben', 'Elizabeth', 'Ben', 'Ben', 'Elizabeth', 'Elizabeth', 'Ben', 'Ben', 'Elizabeth', 'Ben']
+(8, 0.6)
+percent frames identified:  78.72340425531915
+valid names:  ['Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(5, 1.0)
+percent frames identified:  79.16666666666666
+valid names:  ['Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(5, 1.0)
+percent frames identified:  79.59183673469387
+valid names:  ['Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(5, 1.0)
+percent frames identified:  80.0
+valid names:  ['Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(5, 1.0)
+percent frames identified:  80.3921568627451
+valid names:  ['Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(5, 1.0)
+percent frames identified:  80.76923076923077
+valid names:  ['Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(5, 1.0)
+percent frames identified:  81.13207547169812
+valid names:  ['Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(3, 1.0)
+percent frames identified:  81.48148148148148
+valid names:  ['Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(5, 1.0)
+percent frames identified:  81.81818181818183
+valid names:  ['Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(5, 1.0)
+percent frames identified:  82.14285714285714
+valid names:  ['Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(5, 1.0)
+percent frames identified:  82.45614035087719
+valid names:  ['Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(4, 1.0)
+percent frames identified:  82.75862068965517
+valid names:  ['Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(4, 1.0)
+percent frames identified:  83.05084745762711
+valid names:  ['Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(4, 1.0)
+percent frames identified:  83.33333333333334
+valid names:  ['Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(3, 1.0)
+percent frames identified:  83.60655737704919
+valid names:  ['Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(5, 1.0)
+percent frames identified:  83.87096774193549
+valid names:  ['Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(5, 1.0)
+percent frames identified:  84.12698412698413
+valid names:  ['Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(1, 1.0)
+percent frames identified:  84.375
+valid names:  ['Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(5, 1.0)
+percent frames identified:  84.61538461538461
+valid names:  ['Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(3, 1.0)
+percent frames identified:  84.84848484848484
+valid names:  ['Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(5, 1.0)
+percent frames identified:  85.07462686567165
+valid names:  ['Elizabeth', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben', 'Ben']
+(3, 0.9)
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+percent frames identified:  85.29411764705883
+valid names:  ['Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(31, 1.0)
+percent frames identified:  85.5072463768116
+valid names:  ['Elizabeth', 'Elizabeth', 'Shlok', 'Shlok', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Shlok']
+(13, 0.7)
+percent frames identified:  84.28571428571429
+valid names:  ['Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(31, 1.0)
+percent frames identified:  84.50704225352112
+valid names:  ['Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(31, 1.0)
+percent frames identified:  84.72222222222221
+valid names:  ['Rahil', 'Shlok', 'Rahil', 'Rahil', 'Rahil', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(32, 0.6)
+percent frames identified:  83.56164383561644
+valid names:  ['Shlok', 'Shlok', 'Shlok', 'Elizabeth', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(31, 0.9)
+percent frames identified:  83.78378378378379
+valid names:  ['Rahil', 'Shlok', 'Rahil', 'Shlok', 'Rahil', 'Rahil', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(32, 0.6)
+percent frames identified:  82.66666666666667
+valid names:  ['Rahil', 'Rahil', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(30, 0.8)
+percent frames identified:  81.57894736842105
+valid names:  ['Shlok', 'Shlok', 'Shlok', 'Shlok', 'Rahil', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(37, 0.9)
+percent frames identified:  81.81818181818183
+valid names:  ['Shlok', 'Shlok', 'Shlok', 'Rahil', 'Rahil', 'Rahil', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(37, 0.7)
+percent frames identified:  80.76923076923077
+valid names:  ['Shlok', 'Rahil', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(32, 0.9)
+percent frames identified:  81.0126582278481
+valid names:  ['Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(31, 1.0)
+percent frames identified:  81.25
+valid names:  ['Shlok', 'Elizabeth', 'Shlok', 'Elizabeth', 'Elizabeth', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(34, 0.7)
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+percent frames identified:  80.24691358024691
+valid names:  ['Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Ben', 'Shlok', 'Shlok', 'Shlok']
+(35, 0.9)
+percent frames identified:  80.48780487804879
+valid names:  ['Shlok', 'Elizabeth', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(35, 0.9)
+percent frames identified:  80.72289156626506
+valid names:  ['Elizabeth', 'Ben', 'Shlok', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Shlok', 'Shlok', 'Shlok']
+(12, 0.5)
+percent frames identified:  79.76190476190477
+valid names:  ['Shlok', 'Elizabeth', 'Shlok', 'Ben', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(38, 0.8)
+percent frames identified:  78.82352941176471
+valid names:  ['Shlok', 'Elizabeth', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(35, 0.9)
+percent frames identified:  79.06976744186046
+valid names:  ['Elizabeth', 'Elizabeth', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(38, 0.8)
+percent frames identified:  78.16091954022988
+valid names:  ['Shlok', 'Elizabeth', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(35, 0.9)
+percent frames identified:  78.4090909090909
+valid names:  ['Elizabeth', 'Shlok', 'Elizabeth', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(33, 0.8)
+percent frames identified:  77.52808988764045
+valid names:  ['Shlok', 'Elizabeth', 'Shlok', 'Elizabeth', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(38, 0.8)
+percent frames identified:  76.66666666666667
+valid names:  ['Elizabeth', 'Elizabeth', 'Elizabeth', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(32, 0.7)
+percent frames identified:  75.82417582417582
+valid names:  ['Elizabeth', 'Elizabeth', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(38, 0.8)
+percent frames identified:  75.0
+valid names:  ['Elizabeth', 'Shlok', 'Shlok', 'Shlok', 'Elizabeth', 'Shlok', 'Elizabeth', 'Shlok', 'Shlok', 'Shlok']
+(32, 0.7)
+percent frames identified:  74.19354838709677
+valid names:  ['Elizabeth', 'Elizabeth', 'Rahil', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(32, 0.7)
+percent frames identified:  73.40425531914893
+valid names:  ['Elizabeth', 'Elizabeth', 'Ben', 'Elizabeth', 'Shlok', 'Elizabeth', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(30, 0.5)
+percent frames identified:  72.63157894736842
+valid names:  ['Shlok', 'Shlok', 'Ben', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(35, 0.9)
+percent frames identified:  72.91666666666666
+valid names:  ['Elizabeth', 'Elizabeth', 'Ben', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Shlok', 'Shlok', 'Shlok']
+(13, 0.6)
+percent frames identified:  72.16494845360825
+valid names:  ['Shlok', 'Elizabeth', 'Rahil', 'Shlok', 'Rahil', 'Shlok', 'Shlok', 'Rahil', 'Shlok', 'Shlok']
+(33, 0.6)
+percent frames identified:  71.42857142857143
+valid names:  ['Rahil', 'Shlok', 'Elizabeth', 'Rahil', 'Shlok', 'Shlok', 'Rahil', 'Rahil', 'Rahil', 'Rahil']
+(29, 0.6)
+percent frames identified:  70.70707070707071
+percent frames identified:  70.70707070707071
+percent frames identified:  70.70707070707071
+percent frames identified:  70.70707070707071
+valid names:  ['Elizabeth', 'Rahil', 'Elizabeth', 'Shlok', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Shlok', 'Elizabeth']
+(13, 0.7)
+percent frames identified:  70.0
+valid names:  ['Rahil', 'Shlok', 'Shlok', 'Rahil', 'Rahil', 'Rahil', 'Shlok', 'Rahil', 'Shlok', 'Shlok']
+(28, 0.5)
+percent frames identified:  69.3069306930693
+valid names:  ['Shlok', 'Rahil', 'Shlok', 'Shlok', 'Rahil', 'Rahil', 'Rahil', 'Shlok', 'Rahil', 'Shlok']
+(31, 0.5)
+percent frames identified:  68.62745098039215
+valid names:  ['Rahil', 'Shlok', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Shlok', 'Shlok', 'Rahil', 'Rahil']
+(22, 0.7)
+percent frames identified:  67.96116504854369
+valid names:  ['Shlok', 'Shlok', 'Shlok', 'Rahil', 'Rahil', 'Rahil', 'Rahil', 'Shlok', 'Rahil', 'Shlok']
+(32, 0.5)
+percent frames identified:  67.3076923076923
+valid names:  ['Rahil', 'Shlok', 'Rahil', 'Rahil', 'Shlok', 'Rahil', 'Rahil', 'Rahil', 'Shlok', 'Rahil']
+(22, 0.7)
+percent frames identified:  66.66666666666666
+valid names:  ['Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Rahil', 'Shlok', 'Shlok']
+(37, 0.9)
+percent frames identified:  66.98113207547169
+valid names:  ['Shlok', 'Rahil', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(38, 0.9)
+percent frames identified:  67.28971962616822
+valid names:  ['Rahil', 'Shlok', 'Shlok', 'Rahil', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(32, 0.8)
+percent frames identified:  66.66666666666666
+valid names:  ['Shlok', 'Rahil', 'Shlok', 'Shlok', 'Rahil', 'Shlok', 'Shlok', 'Rahil', 'Rahil', 'Shlok']
+(33, 0.6)
+percent frames identified:  66.05504587155964
+valid names:  ['Rahil', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(32, 0.9)
+percent frames identified:  66.36363636363637
+valid names:  ['Rahil', 'Shlok', 'Rahil', 'Shlok', 'Shlok', 'Rahil', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(34, 0.7)
+percent frames identified:  65.76576576576578
+valid names:  ['Rahil', 'Rahil', 'Shlok', 'Rahil', 'Rahil', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(33, 0.6)
+percent frames identified:  65.17857142857143
+valid names:  ['Shlok', 'Rahil', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(35, 0.9)
+percent frames identified:  65.48672566371681
+valid names:  ['Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(31, 1.0)
+percent frames identified:  65.78947368421053
+valid names:  ['Ben', 'Shlok', 'Elizabeth', 'Shlok', 'Elizabeth', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(32, 0.7)
+percent frames identified:  65.21739130434783
+valid names:  ['Rahil', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(35, 0.9)
+percent frames identified:  65.51724137931035
+valid names:  ['Shlok', 'Rahil', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok', 'Shlok']
+(38, 0.9)
+percent frames identified:  65.8119658119658
+percent frames identified:  65.8119658119658
+percent frames identified:  65.8119658119658
+percent frames identified:  65.8119658119658
+percent frames identified:  65.8119658119658
+percent frames identified:  65.8119658119658
+percent frames identified:  65.8119658119658
+percent frames identified:  65.8119658119658
+percent frames identified:  65.8119658119658
+percent frames identified:  65.8119658119658
+percent frames identified:  65.8119658119658
+percent frames identified:  65.8119658119658
+valid names:  ['Shlok', 'Shlok', 'Elizabeth', 'Ben', 'Shlok', 'Shlok', 'Shlok', 'Elizabeth', 'Shlok', 'Shlok']
+(33, 0.7)
+percent frames identified:  65.2542372881356
+valid names:  ['Shlok', 'Elizabeth', 'Shlok', 'Elizabeth', 'Elizabeth', 'Shlok', 'Ben', 'Elizabeth', 'Shlok', 'Shlok']
+(32, 0.5)
+percent frames identified:  64.70588235294117
+valid names:  ['Shlok', 'Elizabeth', 'Rahil', 'Elizabeth', 'Elizabeth', 'Ben', 'Elizabeth', 'Elizabeth', 'Shlok', 'Elizabeth']
+(11, 0.6)
+percent frames identified:  64.16666666666667
+percent frames identified:  64.16666666666667
+valid names:  ['Shlok', 'Shlok', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Elizabeth', 'Shlok', 'Elizabeth', 'Elizabeth']
+(16, 0.7)
+percent frames identified:  63.63636363636363
+percent frames identified:  63.63636363636363
+percent frames identified:  63.63636363636363
+percent frames identified:  63.63636363636363
+percent frames identified:  63.63636363636363
+percent frames identified:  63.63636363636363
+valid names:  ['Elizabeth', 'Shlok', 'Shlok', 'Elizabeth', 'Shlok', 'Elizabeth', 'Shlok', 'Shlok', 'Shlok', 'Elizabeth']
+(34, 0.6)
+percent frames identified:  63.114754098360656
